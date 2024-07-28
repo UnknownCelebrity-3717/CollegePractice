@@ -1,2 +1,2 @@
-# This is a practice repository for my college projects in C++ and Java
+# This is a practice repository for my college projects in C++ 
 Author- Aakarsh Singh
